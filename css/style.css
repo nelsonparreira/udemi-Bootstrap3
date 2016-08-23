@@ -1,0 +1,20 @@
+/* NAVBAR */
+.navbar {
+    background-color: #242424;
+    border-bottom: 1px solid #B9B9B9;
+    font-family: 'Lato', sans-serif;
+    }
+
+.navbar-default .navbar-nav>li>a {
+    color: #CCC;
+    }
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: #646464;
+    }
+
+.navbar-default .navbar-brand {
+        color: white;
+        font-size: 1.5em;
+    }
