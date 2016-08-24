@@ -143,3 +143,22 @@ fieldset[disabled] .btn-trans.active {
 .about p {
     padding-bottom: 25px;
 }
+
+
+/* FEATURE */
+
+.features {
+    background-color: #337ab7;
+    text-align: center;
+    color: white;
+    padding: 90px 0 90px 0;
+}
+
+.features h1 {
+    font-size: 2em;
+    padding-bottom: 25px;
+}
+
+.features img {
+    padding: 15px 0 35px;
+}
