@@ -186,3 +186,21 @@ fieldset[disabled] .btn-trans.active {
 .press .press-logo li:hover img {
     opacity: 1;
 }
+
+
+/* SCREENSHOTS */
+
+.screenshots {
+    background-color: #235178;
+    padding: 90px 0 90px;
+    text-align: center;
+    color: white;
+}
+
+.screenshots img {
+    padding: 20px 0 20px;
+}
+
+.screenshots h1 {
+    font-size: 2em;
+}
