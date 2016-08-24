@@ -245,3 +245,25 @@ fieldset[disabled] .btn-trans.active {
     border: none;
     padding-top:25px;
 }
+
+
+/* CONTACT */
+
+.contact {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.contact h1 {
+    font-size: 2em;
+    padding-bottom: 25px;
+}
+
+.contact .fa {
+    color:#1C3F5C;
+    padding:20px 10px 40px;
+}
+
+.contact li {
+    padding-top: 10px;
+}
