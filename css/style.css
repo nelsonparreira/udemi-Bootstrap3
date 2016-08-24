@@ -225,3 +225,23 @@ fieldset[disabled] .btn-trans.active {
 .reviews .line2 {
     padding-top: 35px;
 }
+
+/* BUY */
+
+.buy {
+    padding:100px 0;
+    background-color: #1C3F5C;
+    color: white;
+    text-align: center;
+}
+
+.buy h1 {
+    font-size: 2em;
+    padding-bottom: 25px;
+}
+
+.buy button {
+    background: transparent;
+    border: none;
+    padding-top:25px;
+}
