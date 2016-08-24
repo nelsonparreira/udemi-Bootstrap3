@@ -204,3 +204,24 @@ fieldset[disabled] .btn-trans.active {
 .screenshots h1 {
     font-size: 2em;
 }
+
+/* REVIEWS */
+
+.reviews {
+    padding: 90px 0 90px;
+    text-align: center;
+}
+
+.reviews h1 {
+    font-size: 2em;
+    padding-bottom: 25px;
+    color: #337ab7;
+}
+
+.reviews p {
+    padding: 0 0 35px;
+}
+
+.reviews .line2 {
+    padding-top: 35px;
+}
