@@ -72,6 +72,10 @@ fieldset[disabled] .btn-trans.active {
         font-size: 1.5em;
     }
 
+.navbar-default .nav li.active a {
+    color: #1D1D1D;
+}
+
 
 /* HEADER */
 .header {
